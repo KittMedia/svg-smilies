@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" width="22" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<radialGradient id="SVGID_1_" cx="11.3327" cy="13.756" r="9.105" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<path style="fill:url(#SVGID_1_);" d="M13.5,23.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S17.911,23.5,13.5,23.5z"/>
+	<path style="fill:#CDA70C;" d="M13.5,8c4.136,0,7.5,3.364,7.5,7.5S17.636,23,13.5,23S6,19.636,6,15.5S9.364,8,13.5,8 M13.5,7C8.806,7,5,10.806,5,15.5c0,4.694,3.806,8.5,8.5,8.5s8.5-3.806,8.5-8.5C22,10.806,18.194,7,13.5,7L13.5,7z"/>
+	<path style="fill:#FFFFFF;stroke:#4C4926;stroke-miterlimit:10;" d="M9.998,4.997c-2.026,0-3.669,1.642-3.669,3.667v1.122C5.728,9.64,5.073,9.77,4.604,10.239c-0.716,0.716-0.716,1.877,0,2.593l2.401,2.399c0.029,0.031,0.059,0.061,0.09,0.09l0.103,0.103c0.033,0.033,0.077,0.044,0.112,0.074c0.073,0.055,0.149,0.104,0.227,0.151c0.164,0.103,0.33,0.179,0.512,0.225c0.231,0.072,0.471,0.122,0.725,0.122h2.446c1.351,0,2.446-1.094,2.446-2.444V8.663C13.667,6.638,12.024,4.997,9.998,4.997z"/>
+	<line style="fill:#4C4926;stroke:#4C4926;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:10;" x1="8.301" y1="5.442" x2="8.301" y2="10.215"/>
+	<line style="fill:#4C4926;stroke:#4C4926;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:10;" x1="10.098" y1="4.997" x2="10.098" y2="9.997"/>
+	<line style="fill:#4C4926;stroke:#4C4926;stroke-width:0.75;stroke-linecap:round;stroke-miterlimit:10;" x1="11.895" y1="5.497" x2="11.895" y2="10.497"/>
+	<line style="fill:none;stroke:#4C4926;stroke-miterlimit:10;" x1="10" y1="0" x2="10" y2="3"/>
+	<line style="fill:none;stroke:#4C4926;stroke-miterlimit:10;" x1="17.728" y1="3.398" x2="15.606" y2="5.519"/>
+	<line style="fill:none;stroke:#4C4926;stroke-miterlimit:10;" x1="2.606" y1="3.398" x2="4.727" y2="5.519"/>
+	<line style="fill:none;stroke:#4C4926;stroke-miterlimit:10;" x1="0" y1="9" x2="3" y2="9"/>
+	<path style="fill:none;stroke:#4C4926;stroke-miterlimit:10;" d="M15.5,14c0-1.105,0.895-2,2-2"/>
+	<polygon style="fill:#FFFFFF;" points="10.925,18.331 10.925,20.331 14.488,20.331 15.548,21.453 16.878,21.453 18.546,19.581 18.546,17.417 17.586,16.503 15.097,16.503 13.286,18.331 "/>
+	<rect x="10.425" y="17.831" style="fill:#4C4926;" width="1" height="3"/>
+	<rect x="10.425" y="17.831" style="fill:#4C4926;" width="3" height="1"/>
+	<rect x="10.425" y="19.831" style="fill:#4C4926;" width="4.25" height="1"/>
+	<rect x="12.634" y="16.917" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -8.1761 15.0957)" style="fill:#4C4926;" width="3" height="1"/>
+	<rect x="14.842" y="16.003" style="fill:#4C4926;" width="3" height="1"/>
+	<rect x="14.025" y="20.392" transform="matrix(0.7071 0.7071 -0.7071 0.7071 19.1736 -4.5049)" style="fill:#4C4926;" width="2" height="1"/>
+	<rect x="16.086" y="20.039" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 44.5436 22.6267)" style="fill:#4C4926;" width="3" height="1"/>
+	<rect x="15.378" y="20.953" style="fill:#4C4926;" width="1.5" height="1"/>
+	<rect x="18" y="17.16" style="fill:#4C4926;" width="1" height="2.671"/>
+	<rect x="17.245" y="16.433" transform="matrix(0.7071 0.7071 -0.7071 0.7071 17.2658 -7.8143)" style="fill:#4C4926;" width="1.64" height="1"/>
+</svg>

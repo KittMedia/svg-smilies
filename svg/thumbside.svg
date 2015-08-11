@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="33" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<radialGradient id="SVGID_1_" cx="6.3327" cy="6.756" r="9.105" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<path style="fill:url(#SVGID_1_);" d="M8.5,16.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,16.5,8.5,16.5z"/>
+	<path style="fill:#CDA70C;" d="M8.5,1C12.636,1,16,4.364,16,8.5S12.636,16,8.5,16S1,12.636,1,8.5S4.364,1,8.5,1 M8.5,0C3.806,0,0,3.806,0,8.5C0,13.194,3.806,17,8.5,17S17,13.194,17,8.5C17,3.806,13.194,0,8.5,0L8.5,0z"/>
+	
+	<radialGradient id="SVGID_2_" cx="-46" cy="-5.0191" r="2.138" gradientTransform="matrix(0 1 -1 0 23.0029 58.9971)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<line style="fill:url(#SVGID_2_);" x1="24.999" y1="12.997" x2="31.046" y2="12.997"/>
+	<line style="fill:#AA8506;" x1="31.5" y1="12.997" x2="23.5" y2="12.997"/>
+	<line style="fill:#AA8506;" x1="31.5" y1="12.997" x2="31.5" y2="12.997"/>
+	<line style="fill:#AA8506;" x1="23.5" y1="13.003" x2="23.5" y2="13.003"/>
+	
+	<radialGradient id="SVGID_3_" cx="-50" cy="-2.919" r="5.1716" gradientTransform="matrix(0 1 -1 0 23.0029 58.9971)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<polygon style="fill:url(#SVGID_3_);" points="32.344,6.497 30.5,6.497 30.5,5.497 25.5,5.497 25.5,6.497 24.5,6.497 24.5,7.497 19.5,7.497 19.5,9.497 20.5,9.497 20.5,10.497 22.5,10.497 22.5,11.497 23.5,11.497 23.5,12.497 31.5,12.497 31.5,10.497 32.344,10.497 "/>
+	<rect x="32" y="5.997" style="fill:#AA8506;" width="1" height="5"/>
+	<rect x="30" y="5.997" style="fill:#AA8506;" width="3" height="1"/>
+	<rect x="29" y="9.997" style="fill:#AA8506;" width="4" height="1"/>
+	<rect x="30" y="4.997" style="fill:#AA8506;" width="1" height="6"/>
+	<rect x="25" y="4.997" style="fill:#AA8506;" width="6" height="1"/>
+	<rect x="25" y="8.997" style="fill:#AA8506;" width="6" height="1"/>
+	<rect x="28" y="4.997" style="fill:#AA8506;" width="1" height="5"/>
+	<rect x="31" y="9.997" style="fill:#AA8506;" width="1" height="3"/>
+	<rect x="23" y="11.997" style="fill:#AA8506;" width="9" height="1"/>
+	<rect x="23" y="10.997" style="fill:#AA8506;" width="1" height="2"/>
+	<rect x="20" y="8.997" style="fill:#AA8506;" width="1" height="2"/>
+	<rect x="20" y="9.997" style="fill:#AA8506;" width="2" height="1"/>
+	<rect x="22" y="9.997" style="fill:#AA8506;" width="1" height="2"/>
+	<rect x="23" y="6.997" style="fill:#AA8506;" width="1" height="2"/>
+	<rect x="25" y="4.997" style="fill:#AA8506;" width="1" height="2"/>
+	<rect x="24" y="5.997" style="fill:#AA8506;" width="1" height="3"/>
+	<rect x="24.147" y="8.645" transform="matrix(0.7071 0.7071 -0.7071 0.7071 13.7458 -14.8954)" style="fill:#AA8506;" width="1.413" height="1"/>
+	<rect x="19" y="6.997" style="fill:#AA8506;" width="4" height="1"/>
+	<rect x="19" y="6.997" style="fill:#AA8506;" width="1" height="3"/>
+	<rect x="6" y="12" style="fill:#655B20;" width="5" height="1"/>
+	<rect x="6" y="5" style="fill:#655B20;" width="1" height="3"/>
+	<rect x="10" y="5" style="fill:#655B20;" width="1" height="3"/>
+</svg>

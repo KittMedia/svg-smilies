@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="17" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<radialGradient id="SVGID_1_" cx="6.3744" cy="6.756" r="9.1163" gradientTransform="matrix(0.9976 0 0 1 -0.0266 0)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<path style="fill:url(#SVGID_1_);" d="M8.479,16.5c-4.4,0-7.979-3.589-7.979-8s3.58-8,7.979-8c2.255,0,4.406,0.941,5.9,2.581c1.365,1.499,2.016,3.407,1.832,5.373c-0.052,0.555,0.038,1.104,0.133,1.686c0.176,1.079,0.357,2.194-0.405,3.443C14.783,15.478,11.232,16.5,8.479,16.5z"/>
+	<path style="fill:#CDA70C;" d="M8.479,1c2.115,0,4.131,0.881,5.531,2.418c1.269,1.393,1.874,3.165,1.704,4.989c-0.058,0.619,0.041,1.226,0.137,1.813c0.176,1.079,0.328,2.012-0.338,3.103C14.49,14.999,11.133,16,8.479,16C4.355,16,1,12.636,1,8.5S4.355,1,8.479,1 M8.479,0C3.797,0,0,3.806,0,8.5C0,13.194,3.797,17,8.479,17c2.946,0,6.624-1.088,7.887-3.156C17.645,11.75,16.569,10,16.71,8.5C17.147,3.826,13.162,0,8.479,0L8.479,0z"/>
+	<ellipse style="fill:#FFFFFF;stroke:#655919;stroke-miterlimit:10;" cx="6.125" cy="5.25" rx="2.375" ry="2.75"/>
+	<rect x="5.125" y="3" style="fill:#655919;" width="2" height="2"/>
+	<ellipse style="fill:#FFFFFF;stroke:#655919;stroke-miterlimit:10;" cx="10.875" cy="5.25" rx="2.375" ry="2.75"/>
+	<rect x="9.875" y="3" style="fill:#655919;" width="2" height="2"/>
+	<rect x="13.125" y="11.125" style="fill:#655B20;" width="1.75" height="1.75"/>
+</svg>

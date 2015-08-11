@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="17" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<radialGradient id="SVGID_1_" cx="6.3327" cy="6.756" r="9.105" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<path style="fill:url(#SVGID_1_);" d="M8.5,16.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,16.5,8.5,16.5z"/>
+	<path style="fill:#CDA70C;" d="M8.5,1C12.636,1,16,4.364,16,8.5S12.636,16,8.5,16S1,12.636,1,8.5S4.364,1,8.5,1 M8.5,0C3.806,0,0,3.806,0,8.5C0,13.194,3.806,17,8.5,17S17,13.194,17,8.5C17,3.806,13.194,0,8.5,0L8.5,0z"/>
+	<polygon style="fill:#FFFFFF;" points="0.5,6.164 1.422,5.231 2.328,6.262 2.328,7.45 3.677,7.45 7.562,3.5 8.778,3.5 9.778,4.536 9.778,7.715 6.625,10.863 4.531,10.863 3.422,9.742 2.328,9.742 1.406,10.606 0.398,9.551 "/>
+	<path style="fill:none;stroke:#655B20;stroke-miterlimit:10;" d="M11.492,7.5c0,2.764-1.342,5-3,5"/>
+	<rect x="0" y="5.95" style="fill:#655B20;" width="1" height="4"/>
+	<rect x="0.561" y="4.597" transform="matrix(0.7071 0.7071 -0.7071 0.7071 4.2681 0.8892)" style="fill:#655B20;" width="1" height="2"/>
+	<rect x="1.268" y="4.597" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 6.9752 8.3041)" style="fill:#655B20;" width="1" height="2"/>
+	<rect x="8.717" y="3.061" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 18.606 0.4145)" style="fill:#655B20;" width="1" height="2"/>
+	<rect x="0.561" y="9.303" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.9745 3.7676)" style="fill:#655B20;" width="1" height="2"/>
+	<rect x="3.475" y="9.303" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.121 5.8281)" style="fill:#655B20;" width="1" height="2"/>
+	<rect x="1.268" y="9.303" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -4.2674 18.838)" style="fill:#655B20;" width="1" height="2"/>
+	<rect x="1.828" y="5.95" style="fill:#655B20;" width="1" height="2"/>
+	<rect x="1.828" y="6.95" style="fill:#655B20;" width="2" height="1"/>
+	<rect x="7.365" y="3" style="fill:#655B20;" width="1.5" height="1"/>
+	<rect x="2.121" y="9.242" style="fill:#655B20;" width="1.5" height="1"/>
+	<rect x="4.328" y="10.363" style="fill:#655B20;" width="2.5" height="1"/>
+	<rect x="2.595" y="4.975" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2.2325 5.5601)" style="fill:#655B20;" width="6" height="1"/>
+	<rect x="5.76" y="8.785" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -4.1639 8.5175)" style="fill:#655B20;" width="4.879" height="1"/>
+	<rect x="9.278" y="4.414" style="fill:#655B20;" width="1" height="3.499"/>
+	<rect x="7.278" y="5.913" style="fill:#655B20;" width="3" height="2"/>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="19" width="17" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<radialGradient id="SVGID_1_" cx="6.3327" cy="8.756" r="9.105" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<path style="fill:url(#SVGID_1_);" d="M8.5,18.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,18.5,8.5,18.5z"/>
+	<path style="fill:#CDA70C;" d="M8.5,3c4.136,0,7.5,3.364,7.5,7.5S12.636,18,8.5,18S1,14.636,1,10.5S4.364,3,8.5,3 M8.5,2C3.806,2,0,5.806,0,10.5C0,15.194,3.806,19,8.5,19s8.5-3.806,8.5-8.5C17,5.806,13.194,2,8.5,2L8.5,2z"/>
+	<circle style="fill:#FFFFFF;" cx="5.496" cy="6.5" r="3"/>
+	<path style="fill:#655B20;" d="M5.496,4c1.378,0,2.5,1.122,2.5,2.5S6.874,9,5.496,9s-2.5-1.122-2.5-2.5S4.117,4,5.496,4 M5.496,3c-1.933,0-3.5,1.567-3.5,3.5s1.567,3.5,3.5,3.5s3.5-1.567,3.5-3.5S7.429,3,5.496,3L5.496,3z"/>
+	<path style="fill:#655B20;" d="M6.25,7.5L6.25,7.5C5.836,7.5,5.5,7.164,5.5,6.75l0,0C5.5,6.336,5.836,6,6.25,6l0,0C6.664,6,7,6.336,7,6.75l0,0C7,7.164,6.664,7.5,6.25,7.5z"/>
+	<circle style="fill:#FFFFFF;" cx="11.5" cy="6.5" r="3"/>
+	<path style="fill:#655B20;" d="M11.5,4C12.878,4,14,5.122,14,6.5S12.878,9,11.5,9S9,7.878,9,6.5S10.122,4,11.5,4 M11.5,3C9.567,3,8,4.567,8,6.5S9.567,10,11.5,10S15,8.433,15,6.5S13.433,3,11.5,3L11.5,3z"/>
+	<path style="fill:#655B20;" d="M11.25,7.5L11.25,7.5C11.664,7.5,12,7.164,12,6.75l0,0C12,6.336,11.664,6,11.25,6l0,0c-0.414,0-0.75,0.336-0.75,0.75l0,0C10.5,7.164,10.836,7.5,11.25,7.5z"/>
+	<path style="fill:none;stroke:#655B20;stroke-miterlimit:10;" d="M2.5,1.5c0-0.553,1.342-1,3-1"/>
+	<path style="fill:none;stroke:#655B20;stroke-miterlimit:10;" d="M14.5,1.5c0-0.553-1.342-1-3-1"/>
+	<polygon style="fill:#4C4926;" points="14.5,11.5 2.5,11.5 2.5,13.22 5.457,16.177 11.448,16.177 14.5,13.125 "/>
+	<rect x="7.003" y="15" style="fill:#F84116;" width="2.993" height="1"/>
+	<path style="fill:none;stroke:#655919;stroke-miterlimit:10;" d="M2.5,12c0,2.485,2.684,4.496,6,4.496"/>
+	<path style="fill:none;stroke:#655919;stroke-miterlimit:10;" d="M14.5,12c0,2.485-2.684,4.496-6,4.496"/>
+	<rect x="2" y="11" style="fill:#655919;" width="13" height="1"/>
+</svg>

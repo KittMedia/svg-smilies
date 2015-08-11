@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="17" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<radialGradient id="SVGID_1_" cx="6.3327" cy="6.756" r="9.105" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<path style="fill:url(#SVGID_1_);" d="M8.5,16.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,16.5,8.5,16.5z"/>
+	<path style="fill:#CDA70C;" d="M8.5,1C12.636,1,16,4.364,16,8.5S12.636,16,8.5,16S1,12.636,1,8.5S4.364,1,8.5,1 M8.5,0C3.806,0,0,3.806,0,8.5C0,13.194,3.806,17,8.5,17S17,13.194,17,8.5C17,3.806,13.194,0,8.5,0L8.5,0z"/>
+	<circle style="fill:#FFFFFF;stroke:#655B20;stroke-miterlimit:10;" cx="5" cy="7" r="2.5"/>
+	<circle style="fill:#FFFFFF;stroke:#655B20;stroke-miterlimit:10;" cx="10" cy="7" r="2.5"/>
+	<circle style="fill:#FFFFFF;stroke:#655B20;stroke-miterlimit:10;" cx="5.5" cy="6" r="0.5"/>
+	<circle style="fill:#FFFFFF;stroke:#655B20;stroke-miterlimit:10;" cx="10.5" cy="6" r="0.5"/>
+	<polygon style="fill:#424242;" points="6,16 6,14 5,14 5,12 12,12 12,11 14,11 14,15 12,15 12,14 10,14 10,15 9,15 9,16 	"/>
+	<path style="fill:#655B20;" d="M13,11v0.5v1V14h-1v-1H9v1H8v1H6v-1v-0.5V13H5v-1h7v-1H13 M14,10h-0.5h-1H11v1H5.5H4v1v1v1h1v1v1h1.5h2H9v-1h1v-1h1v1h1.5h1H14v-1v-1.5v-1V11V10L14,10z"/>
+</svg>

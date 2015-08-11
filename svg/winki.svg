@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="17" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<radialGradient id="SVGID_1_" cx="6.3327" cy="6.756" r="9.105" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<path style="fill:url(#SVGID_1_);" d="M8.5,16.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,16.5,8.5,16.5z"/>
+	<path style="fill:#CDA70C;" d="M8.5,1C12.636,1,16,4.364,16,8.5S12.636,16,8.5,16S1,12.636,1,8.5S4.364,1,8.5,1 M8.5,0C3.806,0,0,3.806,0,8.5C0,13.194,3.806,17,8.5,17S17,13.194,17,8.5C17,3.806,13.194,0,8.5,0L8.5,0z"/>
+	<polygon style="fill:#FFFFFF;" points="5.547,3.5 3.914,3.5 2.844,4.6 1.5,4.621 1.5,7.934 2.594,9.036 5.236,9.036 6.438,7.708 6.419,5.121 "/>
+	<rect x="4.486" y="6.488" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 3.8204 16.058)" style="fill:#655B20;" width="1.5" height="1.5"/>
+	<path style="fill:none;stroke:#655B20;stroke-miterlimit:10;" d="M11.5,8.5c0,1.658-1.789,3-4,3"/>
+	<rect x="1.061" y="0.561" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -0.1464 1.7678)" style="fill:#655B20;" width="2" height="1"/>
+	<rect x="7" y="2" style="fill:#655B20;" width="2" height="1"/>
+	<rect x="1" y="4.121" style="fill:#655B20;" width="1" height="4"/>
+	<rect x="1" y="4.121" style="fill:#655B20;" width="2" height="1"/>
+	<rect x="3.711" y="3" style="fill:#655B20;" width="2" height="1"/>
+	<rect x="2.355" y="3.561" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.8887 3.5616)" style="fill:#655B20;" width="2" height="1"/>
+	<rect x="9.182" y="6.147" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1.7181 9.1463)" style="fill:#655B20;" width="2" height="1"/>
+	<rect x="1.061" y="7.976" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -2.4754 15.9258)" style="fill:#655B20;" width="2" height="1"/>
+	<rect x="5.066" y="3.561" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 7.4838 11.2212)" style="fill:#655B20;" width="2" height="1"/>
+	<rect x="2.414" y="8.536" style="fill:#655B20;" width="3" height="1"/>
+	<rect x="6.827" y="6.708" style="fill:#655B20;" width="3" height="1"/>
+	<rect x="4.62" y="7.622" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.9506 6.7065)" style="fill:#655B20;" width="3" height="1"/>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="19" width="17" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<radialGradient id="SVGID_1_" cx="6.3327" cy="8.4605" r="9.105" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFF98"/>
+		<stop offset="1" style="stop-color:#FFD314"/>
+	</radialGradient>
+	
+	<path style="fill:url(#SVGID_1_);" d="M8.5,18.205c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,18.205,8.5,18.205z"/>
+	<path style="fill:#CDA70C;" d="M8.5,2.705c4.136,0,7.5,3.364,7.5,7.5s-3.364,7.5-7.5,7.5S1,14.34,1,10.205S4.364,2.705,8.5,2.705M8.5,1.705c-4.694,0-8.5,3.806-8.5,8.5c0,4.694,3.806,8.5,8.5,8.5s8.5-3.806,8.5-8.5C17,5.51,13.194,1.705,8.5,1.705L8.5,1.705z"/>
+	
+	<radialGradient id="SVGID_2_" cx="8.5" cy="10.2045" r="8" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#F84116"/>
+		<stop offset="1" style="stop-color:#BE360E"/>
+	</radialGradient>
+	
+	<path style="fill:url(#SVGID_2_);" d="M8.5,18.205c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,18.205,8.5,18.205z"/>
+	<path style="fill:#9F2E0C;" d="M8.5,2.705c4.136,0,7.5,3.364,7.5,7.5s-3.364,7.5-7.5,7.5S1,14.34,1,10.205S4.364,2.705,8.5,2.705M8.5,1.705c-4.694,0-8.5,3.806-8.5,8.5c0,4.694,3.806,8.5,8.5,8.5s8.5-3.806,8.5-8.5C17,5.51,13.194,1.705,8.5,1.705L8.5,1.705z"/>
+	<rect x="15.25" y="0.705" style="fill:#9F2E0C;" width="1" height="6"/>
+	<rect x="13.805" y="-0.305" transform="matrix(0.7071 0.7071 -0.7071 0.7071 5.5651 -9.546)" style="fill:#9F2E0C;" width="1" height="4.5"/>
+	<polygon style="fill:#9F2E0C;" points="13.008,3.21 15.25,0.993 15.75,0.993 15.75,6.493 "/>
+	<rect x="0.749" y="0.705" style="fill:#9F2E0C;" width="1" height="6"/>
+	<rect x="2.195" y="-0.305" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 5.9749 1.4142)" style="fill:#9F2E0C;" width="1" height="4.5"/>
+	<polygon style="fill:#9F2E0C;" points="3.992,3.21 1.749,0.993 1.249,0.993 1.249,6.493 "/>
+	<rect x="10.706" y="13.413" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.2627 12.7053)" style="fill:#531707;" width="3" height="1"/>
+	<rect x="12.621" y="11.705" style="fill:#531707;" width="1" height="1.5"/>
+	<rect x="10" y="14.326" style="fill:#531707;" width="1.5" height="1"/>
+	<rect x="4.707" y="7.619" transform="matrix(0.7071 0.7071 -0.7071 0.7071 7.5588 -2.0111)" style="fill:#531707;" width="3" height="1"/>
+	<rect x="4" y="6.705" style="fill:#531707;" width="1.5" height="1"/>
+	<rect x="4.573" y="8.253" transform="matrix(0.7071 0.7071 -0.7071 0.7071 7.9249 -1.1272)" style="fill:#531707;" width="1.5" height="1.5"/>
+	<rect x="9.293" y="7.619" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 24.1657 6.2279)" style="fill:#531707;" width="3" height="1"/>
+	<rect x="11.5" y="6.705" style="fill:#531707;" width="1.5" height="1"/>
+	<rect x="10.927" y="8.253" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 26.2996 7.1119)" style="fill:#531707;" width="1.5" height="1.5"/>
+</svg>
