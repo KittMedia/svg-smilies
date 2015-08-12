@@ -5,6 +5,32 @@ These SVG smilies are usable for every project where scalable smilies are needed
 
 The smilies are created with Adobe Illustrator CC.
 
+Settings
+--------
+
+The export settings for SVG are the following:
+SVG Profiles: SVG 1.1
+Fonts
+  - Type: SVG
+  - Subsetting: None (Use System Fonts)
+Options:
+  - Image Location: Link
+  - [ ] Presere Illustrator Ending Capabilities
+Advanced Options:
+  - CSS Properties: Style Attributes
+  - Decimal Places: 1
+  - Encoding: Unicode (UTF-8)
+[x] Output fewer <tspan> elements
+[ ] Include Slicing Data
+[ ] Use <textPath> element for Text on Path
+[ ] Include XMP
+[ ] Responsive
+
+Tests
+-----
+
+The smilies are tested in Chrome and Firefox on Windows and in Safari on Mac OS X.
+
 Contribute
 ----------
 
