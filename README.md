@@ -20,11 +20,14 @@ Advanced Options:
   - CSS Properties: Style Attributes
   - Decimal Places: 1
   - Encoding: Unicode (UTF-8)
-[x] Output fewer <tspan> elements
-[ ] Include Slicing Data
-[ ] Use <textPath> element for Text on Path
-[ ] Include XMP
-[ ] Responsive
+
+---
+
+- [x] Output fewer <tspan> elements
+- [ ] Include Slicing Data
+- [ ] Use <textPath> element for Text on Path
+- [ ] Include XMP
+- [ ] Responsive
 
 Tests
 -----
