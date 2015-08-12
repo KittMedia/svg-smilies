@@ -10,12 +10,15 @@ Settings
 
 The export settings for SVG are the following:
 SVG Profiles: SVG 1.1
+
 Fonts
   - Type: SVG
   - Subsetting: None (Use System Fonts)
+
 Options:
   - Image Location: Link
   - [ ] Presere Illustrator Ending Capabilities
+
 Advanced Options:
   - CSS Properties: Style Attributes
   - Decimal Places: 1
