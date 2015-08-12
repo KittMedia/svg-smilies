@@ -1,97 +1,113 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="40" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="39" xml:space="preserve">
 	
 	<!-- Copyright 2011–2015 KittMedia Productions -->
 	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<style type="text/css">
+		.st0{fill:url(#SVGID_1_);}
+		.st1{fill:#CDA70C;}
+		.st2{fill:url(#SVGID_2_);}
+		.st3{fill:#AA8506;}
+		.st4{fill:url(#SVGID_3_);}
+		.st5{fill:url(#SVGID_4_);}
+		.st6{fill:url(#SVGID_5_);}
+		.st7{fill:#FFFFFF;}
+		.st8{fill:#655919;}
+		.st9{fill:#655B20;}
+		.st10{fill:none;stroke:#655919;stroke-miterlimit:10;}
+	</style>
 	
 	<radialGradient id="SVGID_1_" cx="17.3327" cy="6.756" r="9.105" gradientUnits="userSpaceOnUse">
 		<stop offset="0" style="stop-color:#FFFF98"/>
 		<stop offset="1" style="stop-color:#FFD314"/>
 	</radialGradient>
 	
-	<path style="fill:url(#SVGID_1_);" d="M19.5,16.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S23.911,16.5,19.5,16.5z"/>
-	<path style="fill:#CDA70C;" d="M19.5,1C23.636,1,27,4.364,27,8.5S23.636,16,19.5,16S12,12.636,12,8.5S15.364,1,19.5,1 M19.5,0C14.806,0,11,3.806,11,8.5c0,4.694,3.806,8.5,8.5,8.5S28,13.194,28,8.5C28,3.806,24.194,0,19.5,0L19.5,0z"/>
+	<path class="st0" d="M19.5,16.5c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S23.9,16.5,19.5,16.5z"/>
+	<path class="st1" d="M19.5,1C23.6,1,27,4.4,27,8.5S23.6,16,19.5,16S12,12.6,12,8.5S15.4,1,19.5,1 M19.5,0C14.8,0,11,3.8,11,8.5c0,4.7,3.8,8.5,8.5,8.5S28,13.2,28,8.5C28,3.8,24.2,0,19.5,0L19.5,0z"/>
 	
-	<radialGradient id="SVGID_2_" cx="8" cy="6.978" r="2.138" gradientTransform="matrix(1 0 0 -1 0 18)" gradientUnits="userSpaceOnUse">
+	<radialGradient id="SVGID_2_" cx="8" cy="7.978" r="2.138" gradientTransform="matrix(1 0 0 -1 0 18)" gradientUnits="userSpaceOnUse">
 		<stop offset="0" style="stop-color:#FFFF98"/>
 		<stop offset="1" style="stop-color:#FFD314"/>
 	</radialGradient>
 	
-	<line style="fill:url(#SVGID_2_);" x1="8" y1="7.998" x2="8" y2="14.046"/>
-	<line style="fill:#AA8506;" x1="8" y1="14.5" x2="8" y2="6.5"/>
-	<line style="fill:#AA8506;" x1="8" y1="14.5" x2="8" y2="14.5"/>
-	<line style="fill:#AA8506;" x1="8.006" y1="6.5" x2="8.006" y2="6.5"/>
+	<line class="st2" x1="8" y1="7" x2="8" y2="13"/>
+	<line class="st3" x1="8" y1="13.5" x2="8" y2="5.5"/>
+	<line class="st3" x1="8" y1="13.5" x2="8" y2="13.5"/>
+	<line class="st3" x1="8" y1="5.5" x2="8" y2="5.5"/>
 	
-	<radialGradient id="SVGID_3_" cx="4" cy="9.0781" r="5.1716" gradientTransform="matrix(1 0 0 -1 0 18)" gradientUnits="userSpaceOnUse">
+	<radialGradient id="SVGID_3_" cx="4" cy="10.0781" r="5.1716" gradientTransform="matrix(1 0 0 -1 0 18)" gradientUnits="userSpaceOnUse">
 		<stop offset="0" style="stop-color:#FFFF98"/>
 		<stop offset="1" style="stop-color:#FFD314"/>
 	</radialGradient>
 	
-	<polygon style="fill:url(#SVGID_3_);" points="1.5,15.344 1.5,13.5 0.5,13.5 0.5,8.5 1.5,8.5 1.5,7.5 2.5,7.5 2.5,2.5 4.5,2.5 4.5,3.5 5.5,3.5 5.5,5.5 6.5,5.5 6.5,6.5 7.5,6.5 7.5,14.5 5.5,14.5 5.5,15.344 "/>
-	<rect x="1" y="15" style="fill:#AA8506;" width="5" height="1"/>
-	<rect x="1" y="13" style="fill:#AA8506;" width="1" height="3"/>
-	<rect x="5" y="12" style="fill:#AA8506;" width="1" height="4"/>
-	<rect y="13" style="fill:#AA8506;" width="6" height="1"/>
-	<rect y="8" style="fill:#AA8506;" width="1" height="6"/>
-	<rect x="4" y="8" style="fill:#AA8506;" width="1" height="6"/>
-	<rect y="11" style="fill:#AA8506;" width="5" height="1"/>
-	<rect x="5" y="14" style="fill:#AA8506;" width="3" height="1"/>
-	<rect x="7" y="6" style="fill:#AA8506;" width="1" height="9"/>
-	<rect x="6" y="6" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="4" y="3" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="5" y="3" style="fill:#AA8506;" width="1" height="2"/>
-	<rect x="5" y="5" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="2" y="6" style="fill:#AA8506;" width="2" height="1"/>
-	<rect y="8" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="1" y="7" style="fill:#AA8506;" width="3" height="1"/>
-	<rect x="3.441" y="7.353" transform="matrix(0.7071 0.7071 -0.7071 0.7071 6.7678 -0.6327)" style="fill:#AA8506;" width="1.413" height="1"/>
-	<rect x="2" y="2" style="fill:#AA8506;" width="1" height="4"/>
-	<rect x="2" y="2" style="fill:#AA8506;" width="3" height="1"/>
+	<polygon class="st4" points="1.5,14.3 1.5,12.5 0.5,12.5 0.5,7.5 1.5,7.5 1.5,6.5 2.5,6.5 2.5,1.5 4.5,1.5 4.5,2.5 5.5,2.5 5.5,4.5 6.5,4.5 6.5,5.5 7.5,5.5 7.5,13.5 5.5,13.5 5.5,14.3 "/>
+	<rect x="1" y="14" class="st3" width="5" height="1"/>
+	<rect x="1" y="12" class="st3" width="1" height="3"/>
+	<rect x="5" y="11" class="st3" width="1" height="4"/>
+	<rect y="12" class="st3" width="6" height="1"/>
+	<rect y="7" class="st3" width="1" height="6"/>
+	<rect x="4" y="7" class="st3" width="1" height="6"/>
+	<rect y="10" class="st3" width="5" height="1"/>
+	<rect x="5" y="13" class="st3" width="3" height="1"/>
+	<rect x="7" y="5" class="st3" width="1" height="9"/>
+	<rect x="6" y="5" class="st3" width="2" height="1"/>
+	<rect x="4" y="2" class="st3" width="2" height="1"/>
+	<rect x="5" y="2" class="st3" width="1" height="2"/>
+	<rect x="5" y="4" class="st3" width="2" height="1"/>
+	<rect x="2" y="5" class="st3" width="2" height="1"/>
+	<rect y="7" class="st3" width="2" height="1"/>
+	<rect x="1" y="6" class="st3" width="3" height="1"/>
+	<rect x="3.4" y="6.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 6.0607 -0.9256)" class="st3" width="1.4" height="1"/>
+	<rect x="2" y="1" class="st3" width="1" height="4"/>
+	<rect x="2" y="1" class="st3" width="3" height="1"/>
 	
-	<radialGradient id="SVGID_4_" cx="-46" cy="6.978" r="2.138" gradientTransform="matrix(-1 0 0 -1 -13.9941 18)" gradientUnits="userSpaceOnUse">
+	<radialGradient id="SVGID_4_" cx="-46" cy="7.978" r="2.138" gradientTransform="matrix(-1 0 0 -1 -13.9941 18)" gradientUnits="userSpaceOnUse">
 		<stop offset="0" style="stop-color:#FFFF98"/>
 		<stop offset="1" style="stop-color:#FFD314"/>
 	</radialGradient>
 	
-	<line style="fill:url(#SVGID_4_);" x1="32.006" y1="7.998" x2="32.006" y2="14.046"/>
-	<line style="fill:#AA8506;" x1="32.006" y1="14.5" x2="32.006" y2="6.5"/>
-	<line style="fill:#AA8506;" x1="32.006" y1="14.5" x2="32.006" y2="14.5"/>
-	<line style="fill:#AA8506;" x1="32" y1="6.5" x2="32" y2="6.5"/>
+	<line class="st5" x1="32" y1="7" x2="32" y2="13"/>
+	<line class="st3" x1="32" y1="13.5" x2="32" y2="5.5"/>
+	<line class="st3" x1="32" y1="13.5" x2="32" y2="13.5"/>
+	<line class="st3" x1="32" y1="5.5" x2="32" y2="5.5"/>
 	
-	<radialGradient id="SVGID_5_" cx="-50" cy="9.0781" r="5.1716" gradientTransform="matrix(-1 0 0 -1 -13.9941 18)" gradientUnits="userSpaceOnUse">
+	<radialGradient id="SVGID_5_" cx="-48.9941" cy="10.0781" r="5.1716" gradientTransform="matrix(-1 0 0 -1 -13.9941 18)" gradientUnits="userSpaceOnUse">
 		<stop offset="0" style="stop-color:#FFFF98"/>
 		<stop offset="1" style="stop-color:#FFD314"/>
 	</radialGradient>
 	
-	<polygon style="fill:url(#SVGID_5_);" points="38.506,15.344 38.506,13.5 39.506,13.5 39.506,8.5 38.506,8.5 38.506,7.5 37.506,7.5 37.506,2.5 35.506,2.5 35.506,3.5 34.506,3.5 34.506,5.5 33.506,5.5 33.506,6.5 32.506,6.5 32.506,14.5 34.506,14.5 34.506,15.344 "/>
-	<rect x="34.006" y="15" style="fill:#AA8506;" width="5" height="1"/>
-	<rect x="38.006" y="13" style="fill:#AA8506;" width="1" height="3"/>
-	<rect x="34.006" y="12" style="fill:#AA8506;" width="1" height="4"/>
-	<rect x="34.006" y="13" style="fill:#AA8506;" width="6" height="1"/>
-	<rect x="39.006" y="8" style="fill:#AA8506;" width="1" height="6"/>
-	<rect x="35.006" y="8" style="fill:#AA8506;" width="1" height="6"/>
-	<rect x="35.006" y="11" style="fill:#AA8506;" width="5" height="1"/>
-	<rect x="32.006" y="14" style="fill:#AA8506;" width="3" height="1"/>
-	<rect x="32.006" y="6" style="fill:#AA8506;" width="1" height="9"/>
-	<rect x="32.006" y="6" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="34.006" y="3" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="34.006" y="3" style="fill:#AA8506;" width="1" height="2"/>
-	<rect x="33.006" y="5" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="36.006" y="6" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="38.006" y="8" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="36.006" y="7" style="fill:#AA8506;" width="3" height="1"/>
-	<rect x="35.152" y="7.353" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 66.7675 -11.9483)" style="fill:#AA8506;" width="1.413" height="1"/>
-	<rect x="37.006" y="2" style="fill:#AA8506;" width="1" height="4"/>
-	<rect x="35.006" y="2" style="fill:#AA8506;" width="3" height="1"/>
-	<polygon style="fill:#FFFFFF;" points="19.5,8 25.096,8 23.831,12.335 19.5,14 15.114,12.233 13.904,8 "/>
-	<path style="fill:none;stroke:#655919;stroke-miterlimit:10;" d="M14,9.002C14,11.764,16.46,14,19.5,14"/>
-	<path style="fill:none;stroke:#655919;stroke-miterlimit:10;" d="M25,9.002C25,11.764,22.54,14,19.5,14"/>
-	<path style="fill:none;stroke:#655919;stroke-width:0.75;stroke-miterlimit:10;" d="M20.5,5.75c0-0.829,0.671-1.5,1.5-1.5"/>
-	<path style="fill:none;stroke:#655919;stroke-width:0.75;stroke-miterlimit:10;" d="M23.5,5.75c0-0.829-0.671-1.5-1.5-1.5"/>
-	<path style="fill:none;stroke:#655919;stroke-width:0.75;stroke-miterlimit:10;" d="M15.5,5.75c0-0.829,0.671-1.5,1.5-1.5"/>
-	<path style="fill:none;stroke:#655919;stroke-width:0.75;stroke-miterlimit:10;" d="M18.5,5.75c0-0.829-0.671-1.5-1.5-1.5"/>
-	<rect x="17.25" y="8" style="fill:#655B20;" width="1" height="5.705"/>
-	<rect x="20.75" y="8" style="fill:#655B20;" width="1" height="5.705"/>
-	<rect x="13.5" y="8" style="fill:#655919;" width="12" height="1"/>
+	<polygon class="st6" points="37.5,14.3 37.5,12.5 38.5,12.5 38.5,7.5 37.5,7.5 37.5,6.5 36.5,6.5 36.5,1.5 34.5,1.5 34.5,2.5 33.5,2.5 33.5,4.5 32.5,4.5 32.5,5.5 31.5,5.5 31.5,13.5 33.5,13.5 33.5,14.3 "/>
+	<rect x="33" y="14" class="st3" width="5" height="1"/>
+	<rect x="37" y="12" class="st3" width="1" height="3"/>
+	<rect x="33" y="11" class="st3" width="1" height="4"/>
+	<rect x="33" y="12" class="st3" width="6" height="1"/>
+	<rect x="38" y="7" class="st3" width="1" height="6"/>
+	<rect x="34" y="7" class="st3" width="1" height="6"/>
+	<rect x="34" y="10" class="st3" width="5" height="1"/>
+	<rect x="31" y="13" class="st3" width="3" height="1"/>
+	<rect x="31" y="5" class="st3" width="1" height="9"/>
+	<rect x="31" y="5" class="st3" width="2" height="1"/>
+	<rect x="33" y="2" class="st3" width="2" height="1"/>
+	<rect x="33" y="2" class="st3" width="1" height="2"/>
+	<rect x="32" y="4" class="st3" width="2" height="1"/>
+	<rect x="35" y="5" class="st3" width="2" height="1"/>
+	<rect x="37" y="7" class="st3" width="2" height="1"/>
+	<rect x="35" y="6" class="st3" width="3" height="1"/>
+	<rect x="34.1" y="6.4" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 64.3433 -12.9442)" class="st3" width="1.4" height="1"/>
+	<rect x="36" y="1" class="st3" width="1" height="4"/>
+	<rect x="34" y="1" class="st3" width="3" height="1"/>
+	<polygon class="st7" points="19.5,8 25.1,8 25.1,11 23.5,13.4 19.5,14.5 15.7,13.5 13.9,10.5 13.9,8 "/>
+	<path class="st8" d="M19,15c-3.3,0-6-2.7-6-6h1c0,2.8,2.2,5,5,5V15z"/>
+	<path class="st8" d="M20,15c3.3,0,6-2.7,6-6h-1c0,2.8-2.2,5-5,5V15z"/>
+	<rect x="17" y="8" class="st9" width="1" height="6"/>
+	<rect x="21" y="8" class="st9" width="1" height="6"/>
+	<rect x="13" y="8" class="st8" width="13" height="1"/>
+	<path class="st10" d="M13,9"/>
+	<rect x="19" y="14" class="st8" width="1" height="1"/>
+	<path class="st9" d="M15,6c0-1.1,0.9-2,2-2v1c-0.6,0-1,0.4-1,1H15z"/>
+	<path class="st9" d="M19,6c0-1.1-0.9-2-2-2v1c0.6,0,1,0.4,1,1H19z"/>
+	<path class="st9" d="M20,6c0-1.1,0.9-2,2-2v1c-0.6,0-1,0.4-1,1H20z"/>
+	<path class="st9" d="M24,6c0-1.1-0.9-2-2-2v1c0.6,0,1,0.4,1,1H24z"/>
 </svg>

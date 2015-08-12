@@ -1,25 +1,33 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="17" xml:space="preserve">
 	
 	<!-- Copyright 2011–2015 KittMedia Productions -->
 	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
 	
+	<style type="text/css">
+		.st0{fill:url(#SVGID_1_);}
+		.st1{fill:#CDA70C;}
+		.st2{fill:#FFFFFF;stroke:#655B20;stroke-miterlimit:10;}
+		.st3{fill:#655B20;}
+		.st4{fill:#FFFFFF;}
+	</style>
+	
 	<radialGradient id="SVGID_1_" cx="6.3327" cy="6.756" r="9.105" gradientUnits="userSpaceOnUse">
 		<stop offset="0" style="stop-color:#FFFF98"/>
 		<stop offset="1" style="stop-color:#FFD314"/>
 	</radialGradient>
 	
-	<path style="fill:url(#SVGID_1_);" d="M8.5,16.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,16.5,8.5,16.5z"/>
-	<path style="fill:#CDA70C;" d="M8.5,1C12.636,1,16,4.364,16,8.5S12.636,16,8.5,16S1,12.636,1,8.5S4.364,1,8.5,1 M8.5,0C3.806,0,0,3.806,0,8.5C0,13.194,3.806,17,8.5,17S17,13.194,17,8.5C17,3.806,13.194,0,8.5,0L8.5,0z"/>
-	<circle style="fill:#FFFFFF;stroke:#655B20;stroke-miterlimit:10;" cx="6.31" cy="6.25" r="2.31"/>
-	<circle style="fill:#FFFFFF;stroke:#655B20;stroke-miterlimit:10;" cx="10.935" cy="6.25" r="2.31"/>
-	<rect x="5.81" y="4.185" style="fill:#655B20;" width="1" height="1.5"/>
-	<rect x="10.435" y="6.813" style="fill:#655B20;" width="1" height="1.5"/>
-	<rect x="7.621" y="5.5" style="fill:#FFFFFF;" width="2" height="1.5"/>
-	<rect x="7.044" y="12.091" transform="matrix(0.7071 0.7071 -0.7071 0.7071 11.479 -2.5307)" style="fill:#655B20;" width="3.5" height="1"/>
-	<rect x="9.532" y="12.121" transform="matrix(0.7071 0.7071 -0.7071 0.7071 12.2163 -3.2504)" style="fill:#655B20;" width="1" height="2"/>
-	<rect x="10.384" y="12.062" style="fill:#655B20;" width="1.5" height="1"/>
-	<rect x="5.561" y="11.063" transform="matrix(0.7071 0.7071 -0.7071 0.7071 10.3046 -0.7525)" style="fill:#655B20;" width="1" height="2"/>
-	<rect x="6.413" y="11.003" style="fill:#655B20;" width="1.5" height="1"/>
+	<path class="st0" d="M8.5,16.5c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S12.9,16.5,8.5,16.5z"/>
+	<path class="st1" d="M8.5,1C12.6,1,16,4.4,16,8.5S12.6,16,8.5,16S1,12.6,1,8.5S4.4,1,8.5,1 M8.5,0C3.8,0,0,3.8,0,8.5C0,13.2,3.8,17,8.5,17S17,13.2,17,8.5C17,3.8,13.2,0,8.5,0L8.5,0z"/>
+	<circle class="st2" cx="6" cy="6.5" r="2.5"/>
+	<circle class="st2" cx="11" cy="6.5" r="2.5"/>
+	<rect x="5" y="4" class="st3" width="2" height="2"/>
+	<rect x="10" y="7" class="st3" width="2" height="2"/>
+	<rect x="7.5" y="5.8" class="st4" width="2" height="1.5"/>
+	<rect x="7" y="12.1" transform="matrix(0.7071 0.7071 -0.7071 0.7071 11.479 -2.5307)" class="st3" width="3.5" height="1"/>
+	<rect x="9.5" y="12.1" transform="matrix(0.7071 0.7071 -0.7071 0.7071 12.2163 -3.2504)" class="st3" width="1" height="2"/>
+	<rect x="10.4" y="12.1" class="st3" width="1.5" height="1"/>
+	<rect x="5.6" y="11.1" transform="matrix(0.7071 0.7071 -0.7071 0.7071 10.3046 -0.7525)" class="st3" width="1" height="2"/>
+	<rect x="6.4" y="11" class="st3" width="1.5" height="1"/>
 </svg>

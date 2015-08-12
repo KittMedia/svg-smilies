@@ -1,28 +1,36 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="17" xml:space="preserve">
 	
 	<!-- Copyright 2011–2015 KittMedia Productions -->
 	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
 	
+	<style type="text/css">
+		.st0{fill:url(#SVGID_1_);}
+		.st1{fill:#CDA70C;}
+		.st2{fill:#FFFFFF;}
+		.st3{fill:#655B20;}
+		.st4{fill:#4C4926;}
+	</style>
+	
 	<radialGradient id="SVGID_1_" cx="6.3327" cy="6.756" r="9.105" gradientUnits="userSpaceOnUse">
 		<stop offset="0" style="stop-color:#FFFF98"/>
 		<stop offset="1" style="stop-color:#FFD314"/>
 	</radialGradient>
 	
-	<path style="fill:url(#SVGID_1_);" d="M8.5,16.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,16.5,8.5,16.5z"/>
-	<path style="fill:#CDA70C;" d="M8.5,1C12.636,1,16,4.364,16,8.5S12.636,16,8.5,16S1,12.636,1,8.5S4.364,1,8.5,1 M8.5,0C3.806,0,0,3.806,0,8.5C0,13.194,3.806,17,8.5,17S17,13.194,17,8.5C17,3.806,13.194,0,8.5,0L8.5,0z"/>
-	<polygon style="fill:#FFFFFF;" points="12.464,4.853 12.111,4.5 9.282,7.328 8.781,7.828 8.778,8.828 10.073,8.828 10.074,9.976 12.509,9.976 13.509,9.976 13.509,8.975 16,8.975 15.5,7.238 12.831,4.486 "/>
-	<path style="fill:#FFFFFF;" d="M5.002,9.328h-2v-3h1c0.552,0,1,0.448,1,1V9.328z"/>
-	<rect x="4.026" y="8.828" style="fill:#FFFFFF;" width="3.5" height="1.5"/>
-	<rect x="7.002" y="7.828" style="fill:#FFFFFF;" width="1" height="1"/>
-	<rect x="2" y="6" style="fill:#655B20;" width="1" height="2"/>
-	<rect x="5" y="12" style="fill:#4C4926;" width="2" height="1"/>
-	<rect x="5.002" y="6.828" style="fill:#655B20;" width="3" height="1"/>
-	<rect x="2.794" y="5.914" transform="matrix(0.7071 0.7071 -0.7071 0.7071 5.7933 -1.1577)" style="fill:#655B20;" width="3" height="1"/>
-	<rect x="5.002" y="6.828" style="fill:#655B20;" width="2" height="2"/>
-	<rect x="8.624" y="5.238" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -0.8724 9.3688)" style="fill:#655B20;" width="4.499" height="1"/>
-	<rect x="11.808" y="5.238" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 19.9387 19.7352)" style="fill:#655B20;" width="4.497" height="1"/>
-	<rect x="15" y="6.975" style="fill:#655B20;" width="1" height="2"/>
-	<rect x="10.634" y="7.078" style="fill:#655B20;" width="1.75" height="1.75"/>
+	<path class="st0" d="M8.5,16.5c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S12.9,16.5,8.5,16.5z"/>
+	<path class="st1" d="M8.5,1C12.6,1,16,4.4,16,8.5S12.6,16,8.5,16S1,12.6,1,8.5S4.4,1,8.5,1 M8.5,0C3.8,0,0,3.8,0,8.5C0,13.2,3.8,17,8.5,17S17,13.2,17,8.5C17,3.8,13.2,0,8.5,0L8.5,0z"/>
+	<polygon class="st2" points="12.5,4.9 12.1,4.5 9.3,7.3 8.8,7.8 8.8,8.8 10.1,8.8 10.1,10 12.5,10 13.5,10 13.5,9 16,9 15.5,7.2 12.8,4.5 "/>
+	<path class="st2" d="M5,9.3H3v-3h1c0.6,0,1,0.4,1,1V9.3z"/>
+	<rect x="4" y="8.8" class="st2" width="3.5" height="1.5"/>
+	<rect x="7" y="7.8" class="st2" width="1" height="1"/>
+	<rect x="2" y="6" class="st3" width="1" height="2"/>
+	<rect x="5" y="12" class="st4" width="2" height="1"/>
+	<rect x="5" y="6.8" class="st3" width="3" height="1"/>
+	<rect x="2.8" y="5.6" transform="matrix(0.7071 0.7071 -0.7071 0.7071 5.5881 -1.2427)" class="st3" width="3" height="1"/>
+	<rect x="5" y="6.8" class="st3" width="2" height="2"/>
+	<rect x="8.6" y="5.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -0.8724 9.3688)" class="st3" width="4.5" height="1"/>
+	<rect x="11.8" y="5.2" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 19.9387 19.7352)" class="st3" width="4.5" height="1"/>
+	<rect x="15" y="7" class="st3" width="1" height="2"/>
+	<rect x="10.6" y="7.1" class="st3" width="1.8" height="1.8"/>
 </svg>

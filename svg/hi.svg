@@ -1,39 +1,49 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="29" xml:space="preserve">
 	
 	<!-- Copyright 2011–2015 KittMedia Productions -->
 	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
 	
+	<style type="text/css">
+		.st0{fill:url(#SVGID_1_);}
+		.st1{fill:#CDA70C;}
+		.st2{fill:url(#SVGID_2_);}
+		.st3{fill:#AA8506;}
+		.st4{fill:#655919;}
+		.st5{fill:#655B20;}
+	</style>
+	
 	<radialGradient id="SVGID_1_" cx="6.3327" cy="6.756" r="9.105" gradientUnits="userSpaceOnUse">
 		<stop offset="0" style="stop-color:#FFFF98"/>
 		<stop offset="1" style="stop-color:#FFD314"/>
 	</radialGradient>
 	
-	<path style="fill:url(#SVGID_1_);" d="M8.5,16.5c-4.411,0-8-3.589-8-8s3.589-8,8-8s8,3.589,8,8S12.911,16.5,8.5,16.5z"/>
-	<path style="fill:#CDA70C;" d="M8.5,1C12.636,1,16,4.364,16,8.5S12.636,16,8.5,16S1,12.636,1,8.5S4.364,1,8.5,1 M8.5,0C3.806,0,0,3.806,0,8.5C0,13.194,3.806,17,8.5,17S17,13.194,17,8.5C17,3.806,13.194,0,8.5,0L8.5,0z"/>
-	<path style="fill:none;stroke:#655919;stroke-miterlimit:10;" d="M4.5,10.5c0,1.382,1.789,2.5,4,2.5"/>
-	<path style="fill:none;stroke:#655919;stroke-miterlimit:10;" d="M12.5,10.5c0,1.382-1.789,2.5-4,2.5"/>
-	<rect x="5.25" y="5" style="fill:#655B20;" width="2" height="2"/>
-	<rect x="9.75" y="5" style="fill:#655B20;" width="2" height="2"/>
-	
+	<path class="st0" d="M8.5,16.5c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S12.9,16.5,8.5,16.5z"/>
+	<path class="st1" d="M8.5,1C12.6,1,16,4.4,16,8.5S12.6,16,8.5,16S1,12.6,1,8.5S4.4,1,8.5,1 M8.5,0C3.8,0,0,3.8,0,8.5C0,13.2,3.8,17,8.5,17S17,13.2,17,8.5C17,3.8,13.2,0,8.5,0L8.5,0z"/>
+
 	<radialGradient id="SVGID_2_" cx="24.5" cy="7.5011" r="5.0984" gradientUnits="userSpaceOnUse">
 		<stop offset="0" style="stop-color:#FFFF98"/>
 		<stop offset="1" style="stop-color:#FFD314"/>
 	</radialGradient>
 	
-	<polygon style="fill:url(#SVGID_2_);" points="20.5,6.5 20.5,11.5 21.5,11.5 21.5,12.504 22.5,12.502 22.5,13.5 27.5,13.5 27.5,12.504 28.5,12.502 28.5,3.5 26.5,3.504 26.5,1.502 24.5,1.502 24.5,2.5 22.5,2.5 22.5,6.5 "/>
-	<rect x="28" y="3" style="fill:#AA8506;" width="1" height="10"/>
-	<rect x="27" y="12.004" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="27" y="3" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="25" y="1.002" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="23" y="2" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="20" y="6" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="20" y="11" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="21.002" y="12.002" style="fill:#AA8506;" width="2" height="1"/>
-	<rect x="26" y="1" style="fill:#AA8506;" width="1" height="6"/>
-	<rect x="22" y="2" style="fill:#AA8506;" width="1" height="6"/>
-	<rect x="20" y="6" style="fill:#AA8506;" width="1" height="6"/>
-	<rect x="24" y="1" style="fill:#AA8506;" width="1" height="7"/>
-	<rect x="22" y="13" style="fill:#AA8506;" width="6" height="1"/>
+	<polygon class="st2" points="20.5,6.5 20.5,11.5 21.5,11.5 21.5,12.5 22.5,12.5 22.5,13.5 27.5,13.5 27.5,12.5 28.5,12.5 28.5,3.5 26.5,3.5 26.5,1.5 24.5,1.5 24.5,2.5 22.5,2.5 22.5,6.5 "/>
+	<rect x="28" y="3" class="st3" width="1" height="10"/>
+	<rect x="27" y="12" class="st3" width="2" height="1"/>
+	<rect x="27" y="3" class="st3" width="2" height="1"/>
+	<rect x="25" y="1" class="st3" width="2" height="1"/>
+	<rect x="23" y="2" class="st3" width="2" height="1"/>
+	<rect x="20" y="6" class="st3" width="2" height="1"/>
+	<rect x="20" y="11" class="st3" width="2" height="1"/>
+	<rect x="21" y="12" class="st3" width="2" height="1"/>
+	<rect x="26" y="1" class="st3" width="1" height="6"/>
+	<rect x="22" y="2" class="st3" width="1" height="6"/>
+	<rect x="20" y="6" class="st3" width="1" height="6"/>
+	<rect x="24" y="1" class="st3" width="1" height="7"/>
+	<rect x="22" y="13" class="st3" width="6" height="1"/>
+	<path class="st4" d="M8,13c-2.2,0-4-1.3-4-3h1c0,1.1,1.3,2,3,2V13z"/>
+	<path class="st4" d="M9,13c2.2,0,4-1.3,4-3h-1c0,1.1-1.3,2-3,2V13z"/>
+	<rect x="5" y="5" class="st5" width="2" height="2"/>
+	<rect x="10" y="5" class="st5" width="2" height="2"/>
+	<rect x="8" y="12" class="st4" width="1" height="1"/>
 </svg>
