@@ -19,8 +19,8 @@
 	<path class="st0" d="M8.5,16.5c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S12.9,16.5,8.5,16.5z"/>
 	<path class="st1" d="M8.5,1C12.6,1,16,4.4,16,8.5S12.6,16,8.5,16S1,12.6,1,8.5S4.4,1,8.5,1 M8.5,0C3.8,0,0,3.8,0,8.5C0,13.2,3.8,17,8.5,17S17,13.2,17,8.5C17,3.8,13.2,0,8.5,0L8.5,0z"/>
 	<rect x="4.8" y="4" class="st2" width="2.5" height="1"/>
-	<rect x="5" y="6" class="st2" width="2" height="2"/>
-	<rect x="10" y="6" class="st2" width="2" height="2"/>
+	<rect x="6" y="6" class="st2" width="2" height="2"/>
+	<rect x="9" y="6" class="st2" width="2" height="2"/>
 	<rect x="6.5" y="12" class="st2" width="2" height="1"/>
 	<path class="st2" d="M13.5,6c0-1.4-1.1-2.5-2.5-2.5v1c0.8,0,1.5,0.7,1.5,1.5H13.5z"/>
 </svg>

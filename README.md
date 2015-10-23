@@ -20,7 +20,7 @@ Options:
   - [ ] Presere Illustrator Ending Capabilities
 
 Advanced Options:
-  - CSS Properties: Style Attributes
+  - CSS Properties: Style Elements
   - Decimal Places: 1
   - Encoding: Unicode (UTF-8)
 
