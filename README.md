@@ -35,7 +35,8 @@ Advanced Options:
 Tests
 -----
 
-The smilies are tested in Chrome and Firefox on Windows and in Safari on Mac OS X.
+The smilies are tested in Chrome, Firefox and Internet Explorer on Windows 10 and in Safari on Mac OS X.
+Edge is not officially supported due to a poor SVG rendering.
 
 Contribute
 ----------

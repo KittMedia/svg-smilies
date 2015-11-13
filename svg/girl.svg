@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="20" width="23" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<style type="text/css">
+		.st0{fill:#7E4A20;}
+		.st1{fill:#9D4A96;}
+		.st2{fill:url(#SVGID_1_);}
+		.st3{fill:#CDA70E;}
+		.st4{opacity:0.5;fill:#E84623;}
+		.st5{fill:#FFFFFF;}
+		.st6{fill:#665C20;}
+		.st7{fill:none;stroke:#665A19;stroke-miterlimit:10;}
+		.st8{fill:none;stroke:#665C20;stroke-miterlimit:10;}
+	</style>
+	
+	<polygon class="st0" points="16,4.3 19.7,3.3 18.7,7.1 "/>
+	<rect x="18.7" y="2.3" class="st1" width="2" height="2"/>
+	<rect x="17" class="st1" width="2" height="3"/>
+	<rect x="16" class="st1" width="3" height="2"/>
+	<rect x="20" y="4" class="st1" width="2" height="3"/>
+	<rect x="20" y="4" class="st1" width="3" height="2"/>
+	<rect x="20" y="2" class="st0" width="3" height="1"/>
+	<polygon class="st0" points="7,4.3 3.3,3.3 4.3,7.1 "/>
+	<rect x="2.3" y="2.3" class="st1" width="2" height="2"/>
+	<rect x="4" y="0" class="st1" width="2" height="3"/>
+	<rect x="4" y="0" class="st1" width="3" height="2"/>
+	<rect x="1" y="4" class="st1" width="2" height="3"/>
+	<rect x="0" y="4" class="st1" width="3" height="2"/>
+	<rect x="0" y="2" class="st0" width="3" height="1"/>
+	
+	<radialGradient id="SVGID_1_" cx="9.3327" cy="9.756" r="9.105" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#F9F19A"/>
+		<stop offset="1" style="stop-color:#FFD418"/>
+	</radialGradient>
+	
+	<path class="st2" d="M11.5,19.5c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S15.9,19.5,11.5,19.5z"/>
+	<path class="st3" d="M11.5,4c4.1,0,7.5,3.4,7.5,7.5S15.6,19,11.5,19S4,15.6,4,11.5S7.4,4,11.5,4 M11.5,3C6.8,3,3,6.8,3,11.5c0,4.7,3.8,8.5,8.5,8.5s8.5-3.8,8.5-8.5C20,6.8,16.2,3,11.5,3L11.5,3z"/>
+	<path class="st4" d="M6.5,13.5L6.5,13.5C5.7,13.5,5,12.8,5,12l0,0c0-0.8,0.7-1.5,1.5-1.5l0,0C7.3,10.5,8,11.2,8,12l0,0C8,12.8,7.3,13.5,6.5,13.5z"/>
+	<path class="st4" d="M16.5,13.5L16.5,13.5c-0.8,0-1.5-0.7-1.5-1.5l0,0c0-0.8,0.7-1.5,1.5-1.5l0,0c0.8,0,1.5,0.7,1.5,1.5l0,0C18,12.8,17.3,13.5,16.5,13.5z"/>
+	<path class="st5" d="M9.3,11.4c-0.1,0-0.2,0-0.3,0c-0.5-0.1-0.9-0.5-1.2-1C7.5,9.9,7.4,9.2,7.6,8.5c0.3-1.2,1.9-2,2.5-2c0.3,0.1,1.7,1.5,1.4,2.9C11.2,10.6,10.3,11.4,9.3,11.4z"/>
+	<path class="st6" d="M9.9,7c0.4,0.3,1.2,1.4,1.1,2.2c-0.2,1-0.9,1.7-1.7,1.7c-0.1,0-0.2,0-0.2,0c-0.8-0.2-1.3-1.2-1.1-2.3C8.2,7.7,9.5,7.1,9.9,7 M10,6c-0.7,0-2.6,0.9-3,2.4c-0.3,1.6,0.5,3.2,1.8,3.5c0.1,0,0.3,0,0.4,0c1.2,0,2.3-1,2.6-2.5c0.3-1.6-1.3-3.3-1.8-3.5C10.1,6,10.1,6,10,6L10,6z"/>
+	<path class="st5" d="M13.7,11.4c-1,0-1.9-0.9-2.1-2.1C11.3,8,12.7,6.6,13,6.5c0.5,0,2.2,0.8,2.5,2c0.1,0.7,0.1,1.3-0.2,1.9c-0.3,0.5-0.7,0.9-1.2,1C13.9,11.4,13.8,11.4,13.7,11.4z"/>
+	<path class="st6" d="M13.1,7c0.5,0.1,1.7,0.7,1.9,1.6c0.1,0.5,0,1.1-0.2,1.6c-0.2,0.4-0.5,0.6-0.9,0.7c-0.1,0-0.2,0-0.2,0c-0.7,0-1.5-0.7-1.7-1.7C11.8,8.4,12.7,7.3,13.1,7 M13,6c0,0-0.1,0-0.1,0c-0.5,0.1-2.2,1.8-1.8,3.5c0.3,1.4,1.4,2.5,2.6,2.5c0.1,0,0.3,0,0.4,0c1.4-0.3,2.2-1.8,1.8-3.5C15.6,6.9,13.7,6,13,6L13,6z"/>
+	<rect x="10" y="8" class="st5" width="3" height="2"/>
+	<rect x="11.6" y="9.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.3207 11.6343)" class="st6" width="1.5" height="1"/>
+	<rect x="9.9" y="9.3" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 11.1744 24.2796)" class="st6" width="1.5" height="1"/>
+	<path class="st7" d="M7.5,13.5c0,1.4,1.8,2.5,4,2.5"/>
+	<path class="st8" d="M15.5,13.5c0,1.4-1.8,2.5-4,2.5"/>
+	<path class="st8" d="M9.5,16c0,0.6,0.9,1,2,1"/>
+	<path class="st8" d="M13.5,16c0,0.6-0.9,1-2,1"/>
+	<rect x="6.1" y="6.6" transform="matrix(0.7071 0.7071 -0.7071 0.7071 7.0607 -2.9246)" class="st6" width="2" height="1"/>
+	<rect x="14.9" y="6.6" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 32.2012 0.7831)" class="st6" width="2" height="1"/>
+</svg>

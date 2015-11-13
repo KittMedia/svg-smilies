@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="17" xml:space="preserve">
+	
+	<!-- Copyright 2011–2015 KittMedia Productions -->
+	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
+	
+	<style type="text/css">
+		.st0{fill:url(#SVGID_1_);}
+		.st1{fill:#CDA70E;}
+		.st2{fill:#665C20;}
+		.st3{fill:#FFFFFF;}
+		.st4{fill:none;stroke:#665A19;stroke-miterlimit:10;}
+		.st5{fill:#665A19;}
+	</style>
+	
+	<radialGradient id="SVGID_1_" cx="6.3327" cy="6.756" r="9.105" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#F9F19A"/>
+		<stop offset="1" style="stop-color:#FFD418"/>
+	</radialGradient>
+	
+	<path class="st0" d="M8.5,16.5c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S12.9,16.5,8.5,16.5z"/>
+	<path class="st1" d="M8.5,1C12.6,1,16,4.4,16,8.5S12.6,16,8.5,16S1,12.6,1,8.5S4.4,1,8.5,1 M8.5,0C3.8,0,0,3.8,0,8.5C0,13.2,3.8,17,8.5,17S17,13.2,17,8.5C17,3.8,13.2,0,8.5,0L8.5,0z"/>
+	<rect x="2" y="3" class="st2" width="9" height="1"/>
+	<rect x="2" y="3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -0.5962 5.6317)" class="st2" width="9" height="1"/>
+	<polygon class="st3" points="8,7.8 13.5,5.3 14.4,10.4 11,14.2 5.8,14.3 2.6,10.4 "/>
+	<path class="st4" d="M3.5,11.1c1.4,3,4.8,4.4,7.5,3.1"/>
+	<path class="st4" d="M13.4,6.4c1.4,3,0.3,6.5-2.4,7.8"/>
+	<rect x="2.2" y="7.8" transform="matrix(0.9063 -0.4226 0.4226 0.9063 -2.7284 4.2549)" class="st5" width="12" height="1"/>
+</svg>
