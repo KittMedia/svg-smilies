@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="29" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="17" width="17" xml:space="preserve">
 	
 	<!-- Copyright 2011–2016 KittMedia Productions -->
 	<!-- Licensed under GNU Lesser General Public License, version 2.1 (LGPL-2.1) -->
@@ -8,7 +8,7 @@
 	<style type="text/css">
 		.st0{fill:url(#SVGID_1_);}
 		.st1{fill:#CDA70E;}
-		.st2{fill:none;stroke:#665A19;stroke-miterlimit:10;}
+		.st2{fill:#665A19;}
 		.st3{fill:#665C20;}
 	</style>
 	
@@ -19,7 +19,7 @@
 	
 	<circle class="st0" cx="8.5" cy="8.5" r="8"/>
 	<path class="st1" d="M8.5,1C12.6,1,16,4.4,16,8.5S12.6,16,8.5,16S1,12.6,1,8.5S4.4,1,8.5,1 M8.5,0C3.8,0,0,3.8,0,8.5C0,13.2,3.8,17,8.5,17S17,13.2,17,8.5C17,3.8,13.2,0,8.5,0L8.5,0z"/>
-	<path class="st2" d="M12.5,6.5c0-1.4-1.8-2.5-4-2.5l0,0c-2.2,0-4,1.1-4,2.5"/>
+	<path class="st2" d="M13,7c0-1.9-2-3.5-4.5-3.5S4,5.1,4,7l1,0c0-1.4,1.6-2.5,3.5-2.5l0,0C10.4,4.5,12,5.6,12,7L13,7z"/>
 	<rect x="9.8" y="10" transform="matrix(-1 -9.004010e-11 9.004010e-11 -1 21.5 22)" class="st3" width="2" height="2"/>
 	<rect x="5.2" y="10" transform="matrix(-1 -9.094960e-11 9.094960e-11 -1 12.5 22)" class="st3" width="2" height="2"/>
 </svg>
