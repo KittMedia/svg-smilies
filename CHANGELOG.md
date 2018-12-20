@@ -6,23 +6,23 @@
   - Fixed width of smile_reverse.svg
 
 17.02.2016
-  – Added smile_reverse.svg
-  – Fixed mouth for smile.svg and thumbup.svg
-  – Fixed mouth and eyebrowns for hey.svg in Windows
+  - Added smile_reverse.svg
+  - Fixed mouth for smile.svg and thumbup.svg
+  - Fixed mouth and eyebrowns for hey.svg in Windows
 
 13.11.2015
-  – Added bear.svg
-  – Added bomb.svg
-  – Added censored.svg
-  – Added girl.svg
-  – Added hey.svg
-  – Added take_my_money.svg
-  – Added tea.svg
-  – Added xD.svg
+  - Added bear.svg
+  - Added bomb.svg
+  - Added censored.svg
+  - Added girl.svg
+  - Added hey.svg
+  - Added take_my_money.svg
+  - Added tea.svg
+  - Added xD.svg
 
 23.10.2015
   - Added love_eyes.svg
-  – Fixed eyes for smilies confused.svg, huh.svg, wink_tongue.svg and wink.svg
+  - Fixed eyes for smilies confused.svg, huh.svg, wink_tongue.svg and wink.svg
 
 12.08.2015
   - Added fist.svg
